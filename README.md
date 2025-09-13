@@ -39,7 +39,3 @@ RESEND_API_KEY=your_resend_api_key
 ## Deployment
 
 This project is optimized for deployment on Vercel with Supabase as the database.
-
-## License
-
-MIT License
